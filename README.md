@@ -1,8 +1,8 @@
+<img align="right" alt="GIF" src="https://p.ipic.vip/gj6ygx.gif" />
+
 ### Hey, nice to see you :dark_sunglasses:
 
 Hi, I'm Boggy :flushed: , a graduate student majoring in artificial intelligence in Peking University.
-
-<img align="right" alt="GIF" src="https://p.ipic.vip/gj6ygx.gif" width=“300” />
 
 **Current Status**
 
