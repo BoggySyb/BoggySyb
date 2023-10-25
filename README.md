@@ -6,6 +6,8 @@ Hi, I'm Boggy :flushed: , a graduate student majoring in artificial intelligence
 
 **Current Status**
 
++ :cn: I currently live in Beijing, China.
+
 - 🌱 I’m currently learning Recommender Systems.
 - 🤔 My research interests are with Recommender Systems, NLP, etc.
 - 💬 Ask me about anything, I would like to answer.
