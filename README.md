@@ -2,7 +2,7 @@
 
 Hi, I'm Boggy :flushed: , a graduate student majoring in artificial intelligence in Peking University.
 
-<img align="right" alt="GIF" src="https://p.ipic.vip/gj6ygx.gif" width=20%/>
+<img align="right" alt="GIF" src="https://p.ipic.vip/gj6ygx.gif" width=“30”/>
 
 **Current Status**
 
